@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "My Extension",
+    "description": "Change background color.",
+    "version": "1.0",
+    "action": {
+        "default_icon": "images/icon-32.png"
+    },
+    "permissions": ["activeTab", "scripting"],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
