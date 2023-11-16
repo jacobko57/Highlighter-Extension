@@ -8,6 +8,10 @@
 *.so
 *.pyc
 
+# Model #
+#########
+backend/extension/diseases_ner
+
 # Packages #
 ############
 *.7z

@@ -1,0 +1,143 @@
+Acquired immunodeficiency syndrome
+AIDS
+Alkhurma haemorrhagic fever
+Anaplasmosis
+Anthrax
+Arenavirus
+Avian influenza virus
+Babesiosis
+Bordetella
+Pertussis
+Borreliosis
+Botulism
+Brucellosis
+Campylobacteriosis
+Chickenpox
+Varicella
+Chikungunya virus disease
+Chlamydia infection
+Cholera
+Ciguatera fish poisoning 
+CFP
+Clostridioides difficile infections
+Congenital rubella
+Congenital syphilis
+Coronavirus
+COVID-19
+COVID
+Cowpox
+Coxsackievirus
+Creutzfeldt-Jakob disease
+CJD
+Crimean-Congo haemorrhagic fever 
+CCHF
+Cryptosporidiosis
+Cutaneous warts
+Dengue
+DHF
+Diphtheria
+Ebola virus disease
+Echinococcosis
+Enteric fever
+Enterohaemorrhagic Escherichia coli infection
+EHEC
+Enterovirus
+Epidemic louse-borne typhus
+Escherichia coli infection
+Febris recurrens
+Flu
+Food and waterborne diseases
+German measles (rubella)
+Giardiasis
+Gonorrhoea
+Haemophilus infection
+Haemorrhagic fever
+Haemorrhagic fever with renal syndrome
+Hantavirus infection
+Hepatitis
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis E
+HIV infection
+Human papillomavirus infection
+Influenza in humans, avian origin
+Influenza in humans, pandemic
+Influenza in humans, seasonal
+Influenza in humans, swine origin
+Invasive Haemophilus influenzae disease
+Invasive meningococcal disease
+Invasive pneumococcal disease
+Japanese encephalitis virus
+Lassa fever
+Legionnaires’ disease
+Leishmaniasis
+Leptospirosis
+Listeriosis
+Louse borne relapsing fever
+Louse-borne diseases
+Louse-borne typhus
+Lyme disease
+Lymphogranuloma venereum
+Malaria
+Marine biotoxins related diseases
+Measles
+Meningococcal disease
+Middle East respiratory syndrome coronavirus
+Mosquito-borne diseases
+Monkeypox
+Mumps
+Nephropathia epidemica
+Nipah virus disease
+Norovirus infection
+Paratyphoid fever
+Pertussis
+Piroplasmosis
+Plague
+Pneumococcal disease
+Poliomyelitis
+Q fever
+Quintan fever
+Rabies
+Respiratory Syncytial Virus
+Rickettsiosis
+Rift Valley fever
+Rotavirus infection
+Rubella
+S. pneumoniae
+Salmonellosis
+Sandfly-borne diseases
+SARS-CoV-2
+Schmallenberg virus
+Seasonal influenza
+Severe acute respiratory syndrome
+Sexually transmitted infections
+Shigellosis
+Sindbis fever
+Smallpox
+Streptococcus pneumoniae
+Swine-origin influenza
+Syphilis
+Syphilis, congenital
+Tetanus
+Tick-borne diseases
+Tick-borne encephalitis
+Tick-borne relapsing fever
+Toscana virus infection
+Toxoplasmosis, congenital
+Trench fever
+Trichinellosis
+Tuberculosis
+Tularaemia
+Typhoid and paratyphoid fever
+Vaccine-preventable diseases
+Variant Creutzfeldt-Jakob disease
+Varicella
+Viral haemorrhagic fever
+Viral hepatitis
+West Nile virus infection
+Whooping cough
+Yellow fever
+Yersiniosis
+Zika virus disease
+Zoonosis

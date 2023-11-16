@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disease NER Prediction</title>
+</head>
+<body>
+    <h1>Disease NER Prediction Results</h1>
+    
+    <p>
+        This is a sample text mentioning a disease.
+    </p>
+
+    <h2>Named Entities:</h2>
+    <ul>
+        {% for entity in entities %}
+            <li>{{ entity.text }} ({{ entity.label }})</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
