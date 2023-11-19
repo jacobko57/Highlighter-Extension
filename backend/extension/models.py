@@ -1,11 +1,8 @@
 # Create your models here.
 from django.db import models
 import spacy
-import textacy
 from spacy.lang.en import English
 from spacy.pipeline import EntityRuler
-import json
-import re
 
 # spacy.prefer_gpu(True)
 # nlp = spacy.load("en_core_web_lg")
