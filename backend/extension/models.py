@@ -45,7 +45,6 @@ from spacy.pipeline import EntityRuler
 # patterns = create_training_data(diseases, "DISEASE")
 # # print(patterns)
 
-# #Build upon the spaCy Small Model
 # # nlp = spacy.load("en_core_web_lg")
 
 # # #Create the Ruler and Add it
